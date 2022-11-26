@@ -1,0 +1,6 @@
+[submodule "UserInput"]
+	path = UserInput
+	url = ./UserInput/
+[submodule "flappy"]
+	path = flappy
+	url = ./flappy/
